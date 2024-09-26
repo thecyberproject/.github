@@ -1,9 +1,10 @@
 # The Cyber Project  
 **Pioneering the Next Wave of Open-Source Cyber Security**
 
-The **Cyber Project** is an open-source initiative transforming cybersecurity through global collaboration and innovation.
+Cybersecurity shouldn't be expensive or complicated. That's why The Cyber Project is a community-driven initiative focused on transforming cybersecurity through collaboration and innovation.
 
-## Key Objectives
+
+# Key Objectives
 
 - 🔧 **Open-Source Tools**  
    Building free, cutting-edge security tools for all.
